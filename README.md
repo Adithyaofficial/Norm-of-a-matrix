@@ -10,8 +10,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 	3. Print the norm of the matrix in two decimal places.
 ## Program:
 ```
-# Register No:24900985
-# Developed By:KABELAN G K
+# Developed By: ADITYAH M S
+# Register No: 212223220002
 ```
 ```
 # 1-Norm of a Matrix
